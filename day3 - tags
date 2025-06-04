@@ -49,6 +49,31 @@
 </html>
 
 
+#colours# 
+1. pre def colours 
+2. hex values #rrggbb #ff0000
+3. rgb - rgb(r,g,b) = 90,255,70)
+4. HSL - hue, saturation 
+
+<p style = "color : Tomato; "> This is to identify colour of the Text tomato </p>
+        <p style = "color : tomato; background-color :bisque; "> To denote background </p>
+
+# FORM #
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
