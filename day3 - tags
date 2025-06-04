@@ -2,3 +2,53 @@
 <b> - bold
 <i> - italic 
 <em> - italic+semantic 
+
+<br> - breakline 
+<p> line1 <br> line2 </p>
+
+<html>
+    <head>
+        <title>
+            Data science 
+        </title>
+    </head>
+    <body>
+        <h1>
+            Clustering 
+        </h1>
+        <p>
+            There are various clustering methods in which <b>Machine learning</b> models can be produced. For <u>
+                accuracy</u> and <u>
+                    precision </u>
+        </p>
+    </body>
+</html>
+
+# Image # 
+<html>
+    <head>
+        <title>
+            Data science 
+        </title>
+    </head>
+    <body>
+        <h1>
+            Clustering 
+        </h1>
+        <p>
+            There are various clustering methods in which <b>Machine learning</b> models can be produced. For <u>
+                accuracy</u> and <u>
+                    precision </u>
+        </p>
+
+        <img src = "c:\Users\UVARAJ.A\Downloads\Firebase authentication (6).png" 
+        alt = "Sample Img" width = "200">
+
+        <a href = "https://github.com/Mahaamimiii/Internship-Fullstack/edit/main/day3%20-%20tags" target = "_blank" > My Github page </a>
+    </body>
+</html>
+
+
+
+
+
