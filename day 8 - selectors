@@ -1,0 +1,20 @@
+3 # Universal selector #
+It is used to apply changes for the entire set of code
+  <html>
+  <head>
+  <style>
+* { text-align : center;
+   color : blue;}
+</style>
+<body>
+  <h1> Welcome to css </h1>
+  <p> para </p>
+  end of code
+
+  
+4 #Grouping selector #
+  <html> <head> <style>
+  h1,h2, p {
+    background - color : yellow;
+    color : blue;
+    text-align : right} --------> properties
