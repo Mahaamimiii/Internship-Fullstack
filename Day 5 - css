@@ -1,0 +1,72 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff0f6; /* soft baby pink */
+  color: #000000;
+  line-height: 1.6;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #ffd6e8;
+  text-align: center;
+  padding: 30px 20px;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0 4px 10px rgba(255, 192, 203, 0.4);
+}
+
+header h1 {
+  font-size: 3rem;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+/* Navigation */
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #ff4da6;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: #ffe6f2;
+  border-radius: 20px;
+  margin: 30px auto;
+  max-width: 900px;
+  box-shadow: 0 8px 20px rgba(255, 192, 203, 0.2);
+}
+
+.hero h2 {
+  font-size: 2rem;
+  color: #cc0066;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #ff99cc;
+  color: #000;
+  padding: 12px 25px;
+  border-r
